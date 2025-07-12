@@ -1,2 +1,2 @@
 # git_demo
-tutorial
+It's you first day!
